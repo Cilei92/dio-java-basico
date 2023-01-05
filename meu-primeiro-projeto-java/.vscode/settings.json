@@ -3,5 +3,8 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "editor.fontSize": 18,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true
 }
