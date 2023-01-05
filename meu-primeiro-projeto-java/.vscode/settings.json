@@ -5,6 +5,6 @@
         "lib/**/*.jar"
     ],
     "editor.fontSize": 18,
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'JetBrains Mono', 'Mono', Mono"
 }
